@@ -1,0 +1,10 @@
+C:\Users\oulay\Desktop\Antique\personne\personne\bin\Debug\personne.exe.config
+C:\Users\oulay\Desktop\Antique\personne\personne\bin\Debug\personne.exe
+C:\Users\oulay\Desktop\Antique\personne\personne\bin\Debug\personne.pdb
+C:\Users\oulay\Desktop\Antique\personne\personne\bin\Debug\personne.xml
+C:\Users\oulay\Desktop\Antique\personne\personne\obj\Debug\personne.Form1.resources
+C:\Users\oulay\Desktop\Antique\personne\personne\obj\Debug\personne.Resources.resources
+C:\Users\oulay\Desktop\Antique\personne\personne\obj\Debug\personne.vbproj.GenerateResource.Cache
+C:\Users\oulay\Desktop\Antique\personne\personne\obj\Debug\personne.exe
+C:\Users\oulay\Desktop\Antique\personne\personne\obj\Debug\personne.xml
+C:\Users\oulay\Desktop\Antique\personne\personne\obj\Debug\personne.pdb
